@@ -1,5 +1,5 @@
 Installation steps
 
 ```console
- yum install haproxy -y
+yum install haproxy -y
 ```
