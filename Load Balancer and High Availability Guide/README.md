@@ -53,17 +53,23 @@ So what tools we need to achive all of this, my suggestion ? HAproxy and keepali
 
 Hold on, wait a minute, something not right. HAproxy can accomplish both.
 
+
 <p align="center">
   <img width="460" height="300" src="./imgs/well_yes_but_actually_no.gif">
 </p>
 
 
+In reality, HAproxy only offers load balancing and high availability in our server pool, but the service itself is a single point of failure. We can mitigate this problem using keepalived.
 
-For this you will need at least 4 server's, where
+So if just need high availability we can use keepalived.
+
+## Example
+
+Lets assume we have 4 server's
 
 - haproxy01
 - haproxy02
 - webserver01
-- webser02
+- webserver02
 
-The first two will guarantee that your service can run smootly, 
+Where webserver's are 
