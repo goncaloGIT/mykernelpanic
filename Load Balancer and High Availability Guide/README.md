@@ -1,12 +1,12 @@
 #  Load Balancer and High Availability Guide
 
-This guide will help you to understand whats is load balancing and high avaibility is as well to setup a real envirement, but first we need the boring stuff before we go with the pratical guide
+This guide will help you to understand whats is load balancing and high avaibility is as well to setup a real envirement, but first we need the boring stuff before we can go with the pratical guide.
 
 ## So what is High Availability ?
 
 ## So what is Load balancing ?
 
-Load balancing refers to efficiently distributing incoming network traffic across a group of backend servers, also known as a server farm or server pool 
+Load balancing refers to efficiently distributing incoming network traffic across a group of servers, also known as a server farm or server pool 
 
 A load balancer acts as the “traffic cop” 👮 sitting in front of your servers ( also know as frontend ) and routing client requests across our pool ( multiple servers ) capable of fulfilling those requests in a manner that maximizes speed and capacity and ensures that no server enter in overload. 
 
