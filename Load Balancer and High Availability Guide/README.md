@@ -47,7 +47,7 @@ Different load balancing algorithms provide different benefits; the choice of lo
 
 ## Tools
 
-So what tools we need to achive all of this, my suggestion ? HAproxy and keepalived, both of these tools are stable, have updates every now and then and are opensource 💰💰💰
+So what tools do we need to achive all of this, my suggestion ? HAproxy and keepalived, both of these tools are stable, have updates every now and then and are opensource 💰💰💰
 
 - keepalived  - gives you high avaibility.
 - haproxy     - gives you high avaibility  and load balancing. 
