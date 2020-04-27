@@ -51,7 +51,7 @@ So what tools we need to achive all of this, my suggestion ? HAproxy and keepali
 - keepalived  - gives you high avaibility
 - haproxy     - gives you high avaibility  and load balancing 
 
-Hold on, wait a minute, something not right. HAproxy can accomplish both.
+Hold up, wait a minute, something not right. HAproxy can accomplish both.
 
 
 <p align="center">
