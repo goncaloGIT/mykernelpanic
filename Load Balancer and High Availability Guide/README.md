@@ -21,7 +21,7 @@ To achive this we need to:
 
 Load balancing refers to the process of distributing tasks across a group of servers, also known as a server farm or server pool.
 
-A load balancer acts as the “traffic cop” 👮 sitting in front of your servers ( frontend ) and routing client requests across our pool ( multiple servers ) capable of fulfilling those requests in a manner that maximizes speed and capacity and ensures that no server enter in overload. 
+A load balancer acts as the “traffic cop” 👮 sitting in front of our servers ( frontend ) and routing client requests across our pool ( multiple servers ) capable of fulfilling those requests in a manner that maximizes speed and capacity and ensures that no server enter in overload. 
 
 In this manner, a load balancer allow us to:
 
