@@ -25,9 +25,9 @@ A load balancer acts as the “traffic cop” 👮 sitting in front of our serve
 
 In this manner, a load balancer allow us to:
 
-- Distributes client requests or network load efficiently across ou pool of servers 
-- Ensures high availability and reliability
-- Provides the flexibility to add or removes servers as demand  
+- Distributes client requests or network load efficiently across ou pool of servers. 
+- Ensures high availability and reliability.
+- Provides the flexibility to add or removes servers as demand.
 
 
 ## Load Balancing Algorithms
@@ -49,8 +49,8 @@ Different load balancing algorithms provide different benefits; the choice of lo
 
 So what tools we need to achive all of this, my suggestion ? HAproxy and keepalived, both of these tools are stable, have updates every now and then and are opensource 💰💰💰
 
-- keepalived  - gives you high avaibility
-- haproxy     - gives you high avaibility  and load balancing 
+- keepalived  - gives you high avaibility.
+- haproxy     - gives you high avaibility  and load balancing. 
 
 Hold up, wait a minute, something not right. HAproxy can accomplish both.
 
