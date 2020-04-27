@@ -74,4 +74,4 @@ Lets assume we have  a website that cannot have downtime.
 |  webserver01        |  192.168.1.2        |
 |  webserver02        |  192.168.1.3        |
 
-Where webserver's have a website that cannot have downtime, and haproxy 
+
