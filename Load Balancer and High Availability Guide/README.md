@@ -2,6 +2,7 @@
 
 This guide will help you to understand whats is load balancing and high avaibility is as well to setup a real envirement, but first we need the boring stuff before we can go with the pratical guide.
 
+
 ## So what is High Availability ?
 
 In the world there are some services that cannot stop, such as banks, social services, hospitals, youtube xD. In context of IT operations, the term High Availability refers to a system that is designed to avoid loss of service. 
@@ -43,8 +44,16 @@ Different load balancing algorithms provide different benefits; the choice of lo
 - Random with Two Choices – Picks two servers at random and sends the request to the one that is selected by then applying the Least Connections algorithm.
 
 
+## Tools
 
+So what tools we need to achive all of this, my suggestion ? HAproxy and keepalived, both of these tools are stable, have updates every now and then and are opensource 💰💰💰
 
+- keepalived  - gives you high avaibility
+- haproxy     - gives you high avaibility  and load balancing 
+
+Hold on, wait a minute, something not right. HAproxy can accomplish both.
+
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwell-yes-but-actually-no&psig=AOvVaw0H3jPwbnFFzGpD6Sd3mtGJ&ust=1588083175974000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDGxMTliOkCFQAAAAAdAAAAABAO)
 
 For this you will need at least 4 server's, where
 
