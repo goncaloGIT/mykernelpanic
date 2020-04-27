@@ -53,8 +53,9 @@ So what tools we need to achive all of this, my suggestion ? HAproxy and keepali
 
 Hold on, wait a minute, something not right. HAproxy can accomplish both.
 
-
-![](./imgs/well_yes_but_actually_no.gif) 
+<p align="center">
+  <img width="460" height="300" src="./imgs/well_yes_but_actually_no.gif">
+</p>
 
 
 
