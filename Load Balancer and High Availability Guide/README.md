@@ -53,7 +53,8 @@ So what tools we need to achive all of this, my suggestion ? HAproxy and keepali
 
 Hold on, wait a minute, something not right. HAproxy can accomplish both.
 
-![Alt Text](https://giphy.com/gifs/walter--well-yes-but-actually-no-SVgKToBLI6S6DUye1Y)
+![Alt Text](https://giphy.com/gifs/SVgKToBLI6S6DUye1Y/html5)
+
 <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/SVgKToBLI6S6DUye1Y" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/walter--well-yes-but-actually-no-SVgKToBLI6S6DUye1Y">via GIPHY</a></p>
 
 
