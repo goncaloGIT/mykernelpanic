@@ -23,7 +23,7 @@ Different load balancing algorithms provide different benefits; the choice of lo
 
 - IP Hash – The IP address of the client is used to determine which server receives the request.
 
--Random with Two Choices – Picks two servers at random and sends the request to the one that is selected by then applying the Least Connections algorithm.
+- Random with Two Choices – Picks two servers at random and sends the request to the one that is selected by then applying the Least Connections algorithm.
 
 
 For this you will need at least 4 server's, where
