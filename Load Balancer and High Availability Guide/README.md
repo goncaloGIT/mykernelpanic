@@ -53,8 +53,7 @@ So what tools we need to achive all of this, my suggestion ? HAproxy and keepali
 
 Hold on, wait a minute, something not right. HAproxy can accomplish both.
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwell-yes-but-actually-no&psig=AOvVaw0H3jPwbnFFzGpD6Sd3mtGJ&ust=1588083175974000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDGxMTliOkCFQAAAAAdAAAAABAO)
-
+<a href="https://imgflip.com/i/3wyowg"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fwell-yes-but-actually-no&psig=AOvVaw0H3jPwbnFFzGpD6Sd3mtGJ&ust=1588083175974000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDGxMTliOkCFQAAAAAdAAAAABAO" title="made at imgflip.com"/></a>
 For this you will need at least 4 server's, where
 
 - haproxy01
