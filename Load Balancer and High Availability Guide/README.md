@@ -53,8 +53,9 @@ So what tools we need to achive all of this, my suggestion ? HAproxy and keepali
 
 Hold on, wait a minute, something not right. HAproxy can accomplish both.
 
-![](./imgs/well_yes_but_actually_no.gif)
-![grab-landing-page](https://images.app.goo.gl/uqctHWrS5CgBSeDG9)
+
+![](./imgs/well_yes_but_actually_no.gif) 
+
 
 
 For this you will need at least 4 server's, where
