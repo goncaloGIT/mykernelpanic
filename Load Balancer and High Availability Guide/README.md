@@ -4,6 +4,17 @@ This guide will help you to understand whats is load balancing and high avaibili
 
 ## So what is High Availability ?
 
+In the world there are some services that cannot stop, such as banks, social services, hospitals, youtube xD. In context of IT operations, the term High Availability refers to a system that is designed to avoid loss of service. 
+
+To achive this we need
+
+- Eliminate single points of failure. we can do this by adding redundancy.
+
+- Network redundancy
+
+- Detect failures. 
+
+
 ## So what is Load balancing ?
 
 Load balancing refers to efficiently distributing incoming network traffic across a group of servers, also known as a server farm or server pool 
