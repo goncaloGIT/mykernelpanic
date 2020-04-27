@@ -66,11 +66,12 @@ So if just need high availability we can use keepalived.
 
 ## Example
 
-Lets assume we have 4 server's
+Lets assume we have  a website that cannot have downtime.
 
-- haproxy01
-- haproxy02
-- webserver01
-- webserver02
 
-Where webserver's are 
+|       Hostname      |       IPv4          |
+| ------------------- | ------------------- |
+|  webserver01        |  192.168.1.2        |
+|  webserver02        |  192.168.1.3        |
+
+Where webserver's have a website that cannot have downtime, and haproxy 
