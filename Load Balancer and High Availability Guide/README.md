@@ -17,7 +17,7 @@ To achive this we need to:
 - Detect failures. 
 
 
-## So what is Load balancing ?
+## So how about Load balancing ?
 
 Load balancing refers to efficiently distributing incoming network traffic across a group of servers, also known as a server farm or server pool 
 
