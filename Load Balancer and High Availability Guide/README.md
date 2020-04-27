@@ -6,7 +6,7 @@ This guide will help you to understand whats is load balancing and high avaibili
 
 In the world there are some services that cannot stop, such as banks, social services, hospitals, youtube xD. In context of IT operations, the term High Availability refers to a system that is designed to avoid loss of service. 
 
-To achive this we need
+To achive this we need to:
 
 - Eliminate single points of failure. we can do this by adding redundancy.
 
@@ -41,6 +41,8 @@ Different load balancing algorithms provide different benefits; the choice of lo
 - IP Hash – The IP address of the client is used to determine which server receives the request.
 
 - Random with Two Choices – Picks two servers at random and sends the request to the one that is selected by then applying the Least Connections algorithm.
+
+
 
 
 
