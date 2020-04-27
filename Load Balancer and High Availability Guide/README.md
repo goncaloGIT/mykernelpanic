@@ -54,7 +54,7 @@ So what tools we need to achive all of this, my suggestion ? HAproxy and keepali
 Hold on, wait a minute, something not right. HAproxy can accomplish both.
 
 
-
+![image](https://images.app.goo.gl/uqctHWrS5CgBSeDG9)
 
 
 For this you will need at least 4 server's, where
