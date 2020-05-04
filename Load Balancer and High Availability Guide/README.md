@@ -8,7 +8,7 @@ This guide will help you to understand whats is load balancing and high avaibili
 In our daily life there are some services that cannot stop, such as banks, social services, hospitals, youtube xD. Imagine the day you go to an atm and you cannot withdraw money.
 The term High Availability refers to a system that is designed to avoid loss of service. 
 
-To achive this we need to:
+To achieve this we need to:
 
 - Eliminate single points of failure. we can do this by adding redundancy.
 
