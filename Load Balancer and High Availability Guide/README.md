@@ -62,16 +62,5 @@ Hold up, wait a minute, something not right. HAproxy can accomplish both.
 
 In reality, HAproxy only offers load balancing and high availability in our server pool, but the service itself is a single point of failure. We can mitigate this problem using keepalived.
 
-So if just need high availability we can use keepalived.
-
-## Example
-
-Lets assume we have  a website that cannot have downtime.
-
-
-|       Hostname      |       IPv4          |
-| ------------------- | ------------------- |
-|  webserver01        |  192.168.1.2        |
-|  webserver02        |  192.168.1.3        |
-
+So if you just need high availability we can use keepalived.
 
