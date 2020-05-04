@@ -25,7 +25,7 @@ A load balancer acts as the “traffic cop” 👮 sitting in front of our serve
 
 In this manner, a load balancer allow us to:
 
-- Distributes client requests or network load efficiently across ou pool of servers. 
+- Distributes client requests or network load efficiently across our pool. 
 - Ensures high availability and reliability.
 - Provides the flexibility to add or removes servers as demand.
 
